@@ -1,0 +1,5 @@
+rootProject.name='JPlugin'
+include ':app'
+include ':login'
+include ':plugin_core'
+include ':hello'
